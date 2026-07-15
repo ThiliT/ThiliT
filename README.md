@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=750&height=100&lines=Full+Stack+Developer;AI+/+ML+Researcher;Computer+Science+and+Engineering+Graduate;"></a>
 </p>
 
-- 👨‍💻 All of my projects are available at [https://thilit.github.io/MyPortfolio/](https://thilit.github.io/MyPortfolio/)
+- 👨‍💻 All of my projects are available at [https://tharushikame.me](https://tharushikame.netlify.app)
 
 - 📫 How to reach me **thilinitharushika.21@cse.mrt.ac.lk / thilinit2001@gmail.com**
 
